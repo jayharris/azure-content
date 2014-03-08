@@ -10,7 +10,7 @@ When hosting a Node.js application, you may want to ensure that your application
 
 ##Default versions
 
-Currently Windows Azure provides Node.js versions 0.6.17, 0.6.20, and 0.8.4. Unless otherwise specified, 0.6.20 is the default version that will be used.
+Currently Windows Azure provides Node.js versions 0.6.17, 0.6.20, 0.8.2, 0.8.19, 0.8.26, 0.10.5, 0.10.18, and 0.10.21. Unless otherwise specified, 0.6.20 is the default version that will be used.
 
 <div class="dev-callout">
 <strong>Note</strong>
